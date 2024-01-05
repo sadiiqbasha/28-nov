@@ -1,0 +1,52 @@
+img{
+    width:200px;
+    height:200px; 
+}
+.img1{
+    border-radius: 25px;
+}
+.img2{
+    border-radius: 150px;
+}
+.img3{
+    border-radius: 20px 40px;
+}
+.img4{
+    border-radius: 60px 80px 40px 120px;
+}
+.img5{
+    border-radius: 40% 44%/80% 88%;
+}
+.img2:hover{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    border-radius: 100px;
+    box-shadow: 20px 20px 30px orange;
+}
+.img1:hover{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    border-radius: 190px;
+    box-shadow: 20px 20px 30px black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
